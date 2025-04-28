@@ -4,7 +4,7 @@
 **Title**: Twisted  
 **Authors**: Jamie Hunt and Alex Nguyen  
 **Game URL**: [Play Twisted](https://play.unity.com/en/games/6fab6e6b-65e1-4ee8-be95-e36b6523aa4d/twisted)  
-**GitHub URL**: [Twisted GitHub Repository](https://github.com/AlekayPrograms/2PProject)  
+**GitHub URL**: [Twisted GitHub Repository](https://github.com/AlekayPrograms/Unity2DHorrorGame.git)  
 **Video URL**: [Gameplay Video](https://drive.google.com/file/d/1tw6RRjKHZO_6W35K8OG1JJccEqqgUOYG/view?usp=sharing)
 
 ## Game Description
