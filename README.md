@@ -8,7 +8,7 @@
 **Video URL**: [Gameplay Video](https://drive.google.com/file/d/1tw6RRjKHZO_6W35K8OG1JJccEqqgUOYG/view?usp=sharing)
 
 ## Game Description
-*Twisted* is a 2D top-down horror puzzle RPG where you play as a doctor trapped in a dilapidated hospital. As you search for a way to escape, you realize you're being hunted by a patient seeking vengeance for the disfigurement caused by your past actions. Solve puzzles, avoid the patient, and find the necessary items to escape before it's too late.
+*Twisted* is a Unity 2D top-down horror puzzle RPG where you play as a doctor trapped in a dilapidated hospital. As you search for a way to escape, you realize you're being hunted by a patient seeking vengeance for the disfigurement caused by your past actions. Solve puzzles, avoid the patient, and find the necessary items to escape before it's too late.
 
 - **Puzzle Mechanics**: Solve a variety of puzzles such as a sliding puzzle, passcode finding, EKG analysis, and searching for keys.
 - **Atmosphere**: The game features a tense and eerie atmosphere where every corner could hide danger.
